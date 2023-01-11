@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/juanwag/projects/aguilar/StringCrypt/StringEncryptionAlgorithmsLibrary/StringEncryptionAlgorithmsLibrary.csproj",
+      "projectUniqueName": "/home/juanwag/projects/personal/StringCrypt/StringEncryptionAlgorithmsLibrary/StringEncryptionAlgorithmsLibrary.csproj",
       "projectName": "StringEncryptionAlgorithmsLibrary",
-      "projectPath": "/home/juanwag/projects/aguilar/StringCrypt/StringEncryptionAlgorithmsLibrary/StringEncryptionAlgorithmsLibrary.csproj",
+      "projectPath": "/home/juanwag/projects/personal/StringCrypt/StringEncryptionAlgorithmsLibrary/StringEncryptionAlgorithmsLibrary.csproj",
       "packagesPath": "/home/juanwag/.nuget/packages/",
-      "outputPath": "/home/juanwag/projects/aguilar/StringCrypt/StringEncryptionAlgorithmsLibrary/obj/",
+      "outputPath": "/home/juanwag/projects/personal/StringCrypt/StringEncryptionAlgorithmsLibrary/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/juanwag/.nuget/NuGet/NuGet.Config"

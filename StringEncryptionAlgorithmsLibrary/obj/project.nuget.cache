@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vIPL86BJDeM+ErUvHi6BTp6Se0hEfeBGOvsAmIXoyXVi3rYzs+9dOzGB52ejVrBiaZULtDA2rH2NnfMJQ7Nxlw==",
+  "dgSpecHash": "qsF3PB4yGc8Q9BG7E3C+6rKkU5ghKFZQ1nd+FO+wK0GGSYJIz5Gkb1FKKm0Rr1pUGB8oEqFXO5xZFX9F54utPw==",
   "success": true,
-  "projectFilePath": "/home/juanwag/projects/aguilar/StringCrypt/StringEncryptionAlgorithmsLibrary/StringEncryptionAlgorithmsLibrary.csproj",
+  "projectFilePath": "/home/juanwag/projects/personal/StringCrypt/StringEncryptionAlgorithmsLibrary/StringEncryptionAlgorithmsLibrary.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

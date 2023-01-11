@@ -50,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/juanwag/projects/aguilar/StringCrypt/Test/Test.csproj",
+      "projectUniqueName": "/home/juanwag/projects/personal/StringCrypt/Test/Test.csproj",
       "projectName": "Test",
-      "projectPath": "/home/juanwag/projects/aguilar/StringCrypt/Test/Test.csproj",
+      "projectPath": "/home/juanwag/projects/personal/StringCrypt/Test/Test.csproj",
       "packagesPath": "/home/juanwag/.nuget/packages/",
-      "outputPath": "/home/juanwag/projects/aguilar/StringCrypt/Test/obj/",
+      "outputPath": "/home/juanwag/projects/personal/StringCrypt/Test/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/juanwag/.nuget/NuGet/NuGet.Config"
@@ -69,8 +69,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/home/juanwag/projects/aguilar/StringCrypt/StringCryptLibrary/StringCryptLibrary.csproj": {
-              "projectPath": "/home/juanwag/projects/aguilar/StringCrypt/StringCryptLibrary/StringCryptLibrary.csproj"
+            "/home/juanwag/projects/personal/StringCrypt/StringCryptLibrary/StringCryptLibrary.csproj": {
+              "projectPath": "/home/juanwag/projects/personal/StringCrypt/StringCryptLibrary/StringCryptLibrary.csproj"
             }
           }
         }
