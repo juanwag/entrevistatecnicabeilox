@@ -1,0 +1,5 @@
+/home/juanwag/projects/aguilar/StringCrypt/StringCrypt/obj/Debug/net6.0/StringCrypt.csproj.AssemblyReference.cache
+/home/juanwag/projects/aguilar/StringCrypt/StringCrypt/obj/Debug/net6.0/StringCrypt.GeneratedMSBuildEditorConfig.editorconfig
+/home/juanwag/projects/aguilar/StringCrypt/StringCrypt/obj/Debug/net6.0/StringCrypt.AssemblyInfoInputs.cache
+/home/juanwag/projects/aguilar/StringCrypt/StringCrypt/obj/Debug/net6.0/StringCrypt.AssemblyInfo.cs
+/home/juanwag/projects/aguilar/StringCrypt/StringCrypt/obj/Debug/net6.0/StringCrypt.csproj.CoreCompileInputs.cache

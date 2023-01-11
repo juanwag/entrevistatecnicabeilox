@@ -1,0 +1,12 @@
+/home/juanwag/projects/aguilar/StringCrypt/StringEncryptionAlgorithmsLibrary/bin/Debug/net6.0/StringEncryptionAlgorithmsLibrary.deps.json
+/home/juanwag/projects/aguilar/StringCrypt/StringEncryptionAlgorithmsLibrary/bin/Debug/net6.0/StringEncryptionAlgorithmsLibrary.dll
+/home/juanwag/projects/aguilar/StringCrypt/StringEncryptionAlgorithmsLibrary/bin/Debug/net6.0/ref/StringEncryptionAlgorithmsLibrary.dll
+/home/juanwag/projects/aguilar/StringCrypt/StringEncryptionAlgorithmsLibrary/bin/Debug/net6.0/StringEncryptionAlgorithmsLibrary.pdb
+/home/juanwag/projects/aguilar/StringCrypt/StringEncryptionAlgorithmsLibrary/obj/Debug/net6.0/StringEncryptionAlgorithmsLibrary.csproj.AssemblyReference.cache
+/home/juanwag/projects/aguilar/StringCrypt/StringEncryptionAlgorithmsLibrary/obj/Debug/net6.0/StringEncryptionAlgorithmsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/juanwag/projects/aguilar/StringCrypt/StringEncryptionAlgorithmsLibrary/obj/Debug/net6.0/StringEncryptionAlgorithmsLibrary.AssemblyInfoInputs.cache
+/home/juanwag/projects/aguilar/StringCrypt/StringEncryptionAlgorithmsLibrary/obj/Debug/net6.0/StringEncryptionAlgorithmsLibrary.AssemblyInfo.cs
+/home/juanwag/projects/aguilar/StringCrypt/StringEncryptionAlgorithmsLibrary/obj/Debug/net6.0/StringEncryptionAlgorithmsLibrary.csproj.CoreCompileInputs.cache
+/home/juanwag/projects/aguilar/StringCrypt/StringEncryptionAlgorithmsLibrary/obj/Debug/net6.0/StringEncryptionAlgorithmsLibrary.dll
+/home/juanwag/projects/aguilar/StringCrypt/StringEncryptionAlgorithmsLibrary/obj/Debug/net6.0/ref/StringEncryptionAlgorithmsLibrary.dll
+/home/juanwag/projects/aguilar/StringCrypt/StringEncryptionAlgorithmsLibrary/obj/Debug/net6.0/StringEncryptionAlgorithmsLibrary.pdb

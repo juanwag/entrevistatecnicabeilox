@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{8F306B04-EB2F-4EBF-B917-681C08F58188}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCryptLibrary", "StringCryptLibrary\StringCryptLibrary.csproj", "{AFF5B820-5C55-42FC-9456-95EC4C9F3F40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringEncryptionAlgorithmsLibrary", "StringEncryptionAlgorithmsLibrary\StringEncryptionAlgorithmsLibrary.csproj", "{5112DF96-4FB1-4605-A2E1-D95D16F8D726}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F306B04-EB2F-4EBF-B917-681C08F58188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F306B04-EB2F-4EBF-B917-681C08F58188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F306B04-EB2F-4EBF-B917-681C08F58188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F306B04-EB2F-4EBF-B917-681C08F58188}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFF5B820-5C55-42FC-9456-95EC4C9F3F40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFF5B820-5C55-42FC-9456-95EC4C9F3F40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFF5B820-5C55-42FC-9456-95EC4C9F3F40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFF5B820-5C55-42FC-9456-95EC4C9F3F40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5112DF96-4FB1-4605-A2E1-D95D16F8D726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5112DF96-4FB1-4605-A2E1-D95D16F8D726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5112DF96-4FB1-4605-A2E1-D95D16F8D726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5112DF96-4FB1-4605-A2E1-D95D16F8D726}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
